@@ -1,4 +1,7 @@
 {
   "name": "chame1e0n/repo",
-  "description": "Repository"
+  "description": "Repository",
+  "require": {
+    "monolog/monolog": "*"
+  }
 }
