@@ -3,8 +3,5 @@
   "description": "Repository",
   "require": {
     "monolog/monolog": "*"
-  },
-  "require-dev": {
-    "mongologue/mongologue": "*"
   }
 }
